@@ -1,0 +1,51 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-top: 37.5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.even-tile {
+  height: 75px;
+  background: rgb(180, 175, 165);
+}
+
+.odd-tile {
+  height: 75px;
+  background: rgb(145, 140, 125);
+}
+
+#animate-button {
+  width: 13%;
+  margin-left: 640px;
+  margin-top: 25px;
+}
+
+#next-button{ 
+  position: absolute;
+  right:485px;
+  top: 250px;
+  width: 50px;
+  height: 200px;
+}
+
+#prev-button {
+  position: absolute;
+  left:453px;
+  top: 250px;
+  width: 50px;
+  height: 200px;
+}
+
+
+
+
+
+
+
+
